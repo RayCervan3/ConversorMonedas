@@ -49,6 +49,8 @@ El presente proyecto se realizó para el Alura Challengue para Back-end en cual 
       - La utilización de una API para obtener el valor actual de cada moneda conforme a la moneda base utilizada
       - Método para controlar que sólo sea posible utilizar números y no letras
 
+Ejemmplo de como funciona la aplicación: [https://www.linkedin.com/posts/raycervan3_java-swing-alura-activity](https://www.linkedin.com/posts/raycervan3_java-swing-alura-activity-7088399589615001600-nQ4V?utm_source=share&utm_medium=member_desktop) 
+
 ### Herramientas
 
 Se requiere de minimo Java8 con swing así como libreria de maven para JSONObjects
@@ -61,8 +63,9 @@ Se requiere de minimo Java8 con swing así como libreria de maven para JSONObjec
 
 ### Prerequisitos
 
-Intalar Swing, obtener una API KEY dedicaca a manejar tipos de cambios monetarios (currencies), utilizar base currency en la API, de igual manera obtener el paquete
-de JSONObject de maven para que dicha libreria sea ubicada en un folder lib y hacer el build path.
+Intalar Swing, obtener una API KEY dedicaca a manejar tipos de cambios monetarios (currencies), 
+utilizar base currency en la API, de igual manera obtener el paquete JSONObject de maven 
+para que dicha libreria sea ubicada en un folder lib y hacer el build path.
 
 1. API Key gratis en: [https://freecurrencyapi.com/](https://freecurrencyapi.com/)
 2. Librería JSONObject de maven: [https://mvnrepository.com/artifact/org.json/json/20220320](https://mvnrepository.com/artifact/org.json/json/20220320)
