@@ -10,7 +10,7 @@ import org.json.JSONObject;
 
 public class ConversorAPI {
 
-	private String apiKeyURL = "apikey=fca_live_qRE0NUZI3AQbiEIHwjaEUedqUllx2Xuk0wgw8mKU";
+	private String apiKeyURL = "Colocar API key Aqui";
 	private String url = "https://api.freecurrencyapi.com/v1/latest?";
 	private String currencies = "&currencies=EUR%2CUSD%2CJPY%2CKRW%2CRUB%2CMXN%2CGBP&base_currency=";
 	private BigDecimal euro;
